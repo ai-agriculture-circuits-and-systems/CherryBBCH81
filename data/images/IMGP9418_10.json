@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5094629688,
+      "width": 640,
+      "height": 640,
+      "file_name": "IMGP9418_10.jpg",
+      "size": 46994,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5292360688,
+      "image_id": 5094629688,
+      "category_id": 9046893688,
+      "segmentation": [],
+      "area": 1276.2043072512,
+      "bbox": [
+        245.0704,
+        230.46656,
+        37.18336,
+        34.32192
+      ]
+    },
+    {
+      "id": 6253256688,
+      "image_id": 5094629688,
+      "category_id": 9046893688,
+      "segmentation": [],
+      "area": 641.2636102656,
+      "bbox": [
+        294.08416,
+        360.62208,
+        25.352320000000002,
+        25.29408
+      ]
+    },
+    {
+      "id": 7638066688,
+      "image_id": 5094629688,
+      "category_id": 9046893688,
+      "segmentation": [],
+      "area": 809.3550657536,
+      "bbox": [
+        465.35232,
+        414.08448,
+        28.73216,
+        28.16896
+      ]
+    },
+    {
+      "id": 2011643688,
+      "image_id": 5094629688,
+      "category_id": 9046893688,
+      "segmentation": [],
+      "area": 576.7442530304,
+      "bbox": [
+        66.47904,
+        181.40864,
+        23.05472,
+        25.01632
+      ]
+    },
+    {
+      "id": 4172729688,
+      "image_id": 5094629688,
+      "category_id": 9046893688,
+      "segmentation": [],
+      "area": 693.2042956800001,
+      "bbox": [
+        441.1264,
+        601.12672,
+        23.66208,
+        29.296000000000003
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 9046893688,
+      "name": "AppleBBCH81",
+      "supercategory": "apple"
+    }
+  ]
+}

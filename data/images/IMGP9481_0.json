@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2340876697,
+      "width": 640,
+      "height": 640,
+      "file_name": "IMGP9481_0.jpg",
+      "size": 54975,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9419533697,
+      "image_id": 2340876697,
+      "category_id": 2659040697,
+      "segmentation": [],
+      "area": 1294.9968060416002,
+      "bbox": [
+        386.47872,
+        243.94368,
+        27.04256,
+        47.88736
+      ]
+    },
+    {
+      "id": 1264080697,
+      "image_id": 2340876697,
+      "category_id": 2659040697,
+      "segmentation": [],
+      "area": 1633.9736731648,
+      "bbox": [
+        438.87328,
+        159.4368,
+        37.18336,
+        43.94368
+      ]
+    },
+    {
+      "id": 2903208697,
+      "image_id": 2340876697,
+      "category_id": 2659040697,
+      "segmentation": [],
+      "area": 995.3621164031999,
+      "bbox": [
+        430.9856,
+        250.1408,
+        27.60576,
+        36.05632
+      ]
+    },
+    {
+      "id": 3089210697,
+      "image_id": 2340876697,
+      "category_id": 2659040697,
+      "segmentation": [],
+      "area": 1114.053685248,
+      "bbox": [
+        554.3664,
+        116.61952,
+        30.4224,
+        36.61952
+      ]
+    },
+    {
+      "id": 4779919697,
+      "image_id": 2340876697,
+      "category_id": 2659040697,
+      "segmentation": [],
+      "area": 1214.9975220224,
+      "bbox": [
+        319.99968,
+        125.63392,
+        37.18336,
+        32.67584
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2659040697,
+      "name": "AppleBBCH81",
+      "supercategory": "apple"
+    }
+  ]
+}

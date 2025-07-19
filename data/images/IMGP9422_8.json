@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7732015689,
+      "width": 640,
+      "height": 640,
+      "file_name": "IMGP9422_8.jpg",
+      "size": 29805,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8414538689,
+      "image_id": 7732015689,
+      "category_id": 1747385689,
+      "segmentation": [],
+      "area": 841.2036759552,
+      "bbox": [
+        403.73088,
+        397.09824,
+        28.186239999999998,
+        29.84448
+      ]
+    },
+    {
+      "id": 6843404689,
+      "image_id": 7732015689,
+      "category_id": 1747385689,
+      "segmentation": [],
+      "area": 771.1033696256,
+      "bbox": [
+        263.6272,
+        286.83968,
+        28.186239999999998,
+        27.35744
+      ]
+    },
+    {
+      "id": 5581871689,
+      "image_id": 7732015689,
+      "category_id": 1747385689,
+      "segmentation": [],
+      "area": 793.7947246592001,
+      "bbox": [
+        131.81343999999999,
+        341.55456000000004,
+        29.015680000000003,
+        27.35744
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1747385689,
+      "name": "AppleBBCH81",
+      "supercategory": "apple"
+    }
+  ]
+}

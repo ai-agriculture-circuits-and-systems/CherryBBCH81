@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8608415682,
+      "width": 640,
+      "height": 640,
+      "file_name": "IMGP9379_20.jpg",
+      "size": 47841,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5261125682,
+      "image_id": 8608415682,
+      "category_id": 9784019682,
+      "segmentation": [],
+      "area": 1004.703145984,
+      "bbox": [
+        327.47264,
+        18.838079999999998,
+        32.6528,
+        30.769280000000002
+      ]
+    },
+    {
+      "id": 2125410682,
+      "image_id": 8608415682,
+      "category_id": 9784019682,
+      "segmentation": [],
+      "area": 734.2091747328,
+      "bbox": [
+        377.08032,
+        123.07680000000002,
+        23.861759999999997,
+        30.769280000000002
+      ]
+    },
+    {
+      "id": 6886479682,
+      "image_id": 8608415682,
+      "category_id": 9784019682,
+      "segmentation": [],
+      "area": 1082.3849377791998,
+      "bbox": [
+        401.56992,
+        170.17248,
+        28.257279999999998,
+        38.30464
+      ]
+    },
+    {
+      "id": 5170832682,
+      "image_id": 8608415682,
+      "category_id": 9784019682,
+      "segmentation": [],
+      "area": 464.407916544,
+      "bbox": [
+        391.5641599999999,
+        84.89823999999999,
+        15.2384,
+        30.47616
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 9784019682,
+      "name": "AppleBBCH81",
+      "supercategory": "apple"
+    }
+  ]
+}

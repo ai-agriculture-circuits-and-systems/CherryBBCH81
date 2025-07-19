@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9709021681,
+      "width": 640,
+      "height": 640,
+      "file_name": "IMGP9373_6.jpg",
+      "size": 36674,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4046465681,
+      "image_id": 9709021681,
+      "category_id": 8270719681,
+      "segmentation": [],
+      "area": 495.202670592,
+      "bbox": [
+        135.78208,
+        306.93856,
+        20.680320000000002,
+        23.9456
+      ]
+    },
+    {
+      "id": 8695182681,
+      "image_id": 9709021681,
+      "category_id": 8270719681,
+      "segmentation": [],
+      "area": 619.7396951039999,
+      "bbox": [
+        81.22464000000001,
+        119.18368000000001,
+        24.4896,
+        25.30624
+      ]
+    },
+    {
+      "id": 1323464681,
+      "image_id": 9709021681,
+      "category_id": 8270719681,
+      "segmentation": [],
+      "area": 637.7909514240001,
+      "bbox": [
+        329.11904,
+        206.42464,
+        24.041600000000003,
+        26.528640000000003
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 8270719681,
+      "name": "AppleBBCH81",
+      "supercategory": "apple"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7167112687,
+      "width": 640,
+      "height": 640,
+      "file_name": "IMGP9413_6.jpg",
+      "size": 29500,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7266915687,
+      "image_id": 7167112687,
+      "category_id": 9242455687,
+      "segmentation": [],
+      "area": 1942.3080259583996,
+      "bbox": [
+        463.39648,
+        498.86816000000005,
+        41.509119999999996,
+        46.79232
+      ]
+    },
+    {
+      "id": 1119616687,
+      "image_id": 7167112687,
+      "category_id": 9242455687,
+      "segmentation": [],
+      "area": 2443.570106368,
+      "bbox": [
+        524.52832,
+        503.39648,
+        49.05664,
+        49.8112
+      ]
+    },
+    {
+      "id": 7730807687,
+      "image_id": 7167112687,
+      "category_id": 9242455687,
+      "segmentation": [],
+      "area": 2137.1274616831997,
+      "bbox": [
+        409.05664,
+        467.1702399999999,
+        42.26432,
+        50.56576
+      ]
+    },
+    {
+      "id": 2927722687,
+      "image_id": 7167112687,
+      "category_id": 9242455687,
+      "segmentation": [],
+      "area": 1569.8176,
+      "bbox": [
+        356.22656,
+        58.11296,
+        40.0,
+        39.24544
+      ]
+    },
+    {
+      "id": 1792850687,
+      "image_id": 7167112687,
+      "category_id": 9242455687,
+      "segmentation": [],
+      "area": 1549.0986475519999,
+      "bbox": [
+        378.86015999999995,
+        30.6736,
+        40.62208,
+        38.1344
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 9242455687,
+      "name": "AppleBBCH81",
+      "supercategory": "apple"
+    }
+  ]
+}

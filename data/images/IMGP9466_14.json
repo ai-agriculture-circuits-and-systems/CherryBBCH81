@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6045092694,
+      "width": 640,
+      "height": 640,
+      "file_name": "IMGP9466_14.jpg",
+      "size": 49708,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1797064694,
+      "image_id": 6045092694,
+      "category_id": 3575009694,
+      "segmentation": [],
+      "area": 1880.5687836672,
+      "bbox": [
+        170.1408,
+        314.3664,
+        44.50688,
+        42.25344
+      ]
+    },
+    {
+      "id": 2967928694,
+      "image_id": 6045092694,
+      "category_id": 3575009694,
+      "segmentation": [],
+      "area": 760.7908196352,
+      "bbox": [
+        412.39423999999997,
+        269.85952000000003,
+        28.73216,
+        26.47872
+      ]
+    },
+    {
+      "id": 3909838694,
+      "image_id": 6045092694,
+      "category_id": 3575009694,
+      "segmentation": [],
+      "area": 537.030807552,
+      "bbox": [
+        341.97184,
+        264.2256,
+        20.2816,
+        26.47872
+      ]
+    },
+    {
+      "id": 1732699694,
+      "image_id": 6045092694,
+      "category_id": 3575009694,
+      "segmentation": [],
+      "area": 855.381037056,
+      "bbox": [
+        309.296,
+        28.73248,
+        27.60576,
+        30.985599999999998
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3575009694,
+      "name": "AppleBBCH81",
+      "supercategory": "apple"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7746317684,
+      "width": 640,
+      "height": 640,
+      "file_name": "IMGP9390_12.jpg",
+      "size": 49440,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2640992684,
+      "image_id": 7746317684,
+      "category_id": 1003969684,
+      "segmentation": [],
+      "area": 1059.796168704,
+      "bbox": [
+        174.648,
+        395.49312,
+        29.8592,
+        35.49312
+      ]
+    },
+    {
+      "id": 4610053684,
+      "image_id": 7746317684,
+      "category_id": 1003969684,
+      "segmentation": [],
+      "area": 1274.346010624,
+      "bbox": [
+        247.32384,
+        386.47904000000005,
+        30.985599999999998,
+        41.12704
+      ]
+    },
+    {
+      "id": 6360961684,
+      "image_id": 7746317684,
+      "category_id": 1003969684,
+      "segmentation": [],
+      "area": 853.1675283456,
+      "bbox": [
+        333.52128,
+        526.19712,
+        23.66208,
+        36.05632
+      ]
+    },
+    {
+      "id": 5211799684,
+      "image_id": 7746317684,
+      "category_id": 1003969684,
+      "segmentation": [],
+      "area": 1785.0359975936,
+      "bbox": [
+        378.02784,
+        557.18304,
+        41.69024,
+        42.81664
+      ]
+    },
+    {
+      "id": 7942101684,
+      "image_id": 7746317684,
+      "category_id": 1003969684,
+      "segmentation": [],
+      "area": 1214.9975220224,
+      "bbox": [
+        349.296,
+        570.70432,
+        32.67584,
+        37.18336
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1003969684,
+      "name": "AppleBBCH81",
+      "supercategory": "apple"
+    }
+  ]
+}

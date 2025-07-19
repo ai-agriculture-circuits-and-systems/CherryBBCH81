@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9975701690,
+      "width": 640,
+      "height": 640,
+      "file_name": "IMGP9430_18.jpg",
+      "size": 41701,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2727028690,
+      "image_id": 9975701690,
+      "category_id": 5658488690,
+      "segmentation": [],
+      "area": 1119.7880598528,
+      "bbox": [
+        574.64768,
+        187.04192,
+        31.54944,
+        35.49312
+      ]
+    },
+    {
+      "id": 7536348690,
+      "image_id": 9975701690,
+      "category_id": 5658488690,
+      "segmentation": [],
+      "area": 688.749514752,
+      "bbox": [
+        550.4224,
+        298.02848,
+        19.7184,
+        34.92928
+      ]
+    },
+    {
+      "id": 3783440690,
+      "image_id": 9975701690,
+      "category_id": 5658488690,
+      "segmentation": [],
+      "area": 399.92574935040005,
+      "bbox": [
+        536.3379199999999,
+        274.9296,
+        15.77472,
+        25.352320000000002
+      ]
+    },
+    {
+      "id": 3587488690,
+      "image_id": 9975701690,
+      "category_id": 5658488690,
+      "segmentation": [],
+      "area": 373.2626866176,
+      "bbox": [
+        628.16896,
+        394.36608,
+        11.83104,
+        31.54944
+      ]
+    },
+    {
+      "id": 6140170690,
+      "image_id": 9975701690,
+      "category_id": 5658488690,
+      "segmentation": [],
+      "area": 404.1069928448,
+      "bbox": [
+        556.26944,
+        97.82368,
+        17.40928,
+        23.21216
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 5658488690,
+      "name": "AppleBBCH81",
+      "supercategory": "apple"
+    }
+  ]
+}

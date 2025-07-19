@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9077742687,
+      "width": 640,
+      "height": 640,
+      "file_name": "IMGP9411_1.jpg",
+      "size": 37666,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8506310687,
+      "image_id": 9077742687,
+      "category_id": 7932602687,
+      "segmentation": [],
+      "area": 2598.849810432,
+      "bbox": [
+        125.07008,
+        202.25376,
+        51.83104,
+        50.1408
+      ]
+    },
+    {
+      "id": 6344358687,
+      "image_id": 9077742687,
+      "category_id": 7932602687,
+      "segmentation": [],
+      "area": 2507.4250448896,
+      "bbox": [
+        145.35232000000002,
+        148.16896,
+        56.33792,
+        44.50688
+      ]
+    },
+    {
+      "id": 9315451687,
+      "image_id": 9077742687,
+      "category_id": 7932602687,
+      "segmentation": [],
+      "area": 1712.6656,
+      "bbox": [
+        63.09856,
+        208.45056,
+        42.81664,
+        40.0
+      ]
+    },
+    {
+      "id": 5722653687,
+      "image_id": 9077742687,
+      "category_id": 7932602687,
+      "segmentation": [],
+      "area": 2005.9571265536001,
+      "bbox": [
+        70.98592,
+        273.23968,
+        45.07072,
+        44.50688
+      ]
+    },
+    {
+      "id": 4979628687,
+      "image_id": 9077742687,
+      "category_id": 7932602687,
+      "segmentation": [],
+      "area": 2365.2535328768004,
+      "bbox": [
+        136.90144,
+        269.8592,
+        45.63392,
+        51.83104
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 7932602687,
+      "name": "AppleBBCH81",
+      "supercategory": "apple"
+    }
+  ]
+}

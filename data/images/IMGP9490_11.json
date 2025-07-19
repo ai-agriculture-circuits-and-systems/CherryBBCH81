@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5986517698,
+      "width": 640,
+      "height": 640,
+      "file_name": "IMGP9490_11.jpg",
+      "size": 37080,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6019079698,
+      "image_id": 5986517698,
+      "category_id": 2213224698,
+      "segmentation": [],
+      "area": 3085.1714842624,
+      "bbox": [
+        538.86016,
+        0.0,
+        55.54432,
+        55.54432
+      ]
+    },
+    {
+      "id": 4109859698,
+      "image_id": 5986517698,
+      "category_id": 2213224698,
+      "segmentation": [],
+      "area": 1929.8348040192,
+      "bbox": [
+        484.14527999999996,
+        0.0,
+        59.68896,
+        32.33152
+      ]
+    },
+    {
+      "id": 2758677698,
+      "image_id": 5986517698,
+      "category_id": 2213224698,
+      "segmentation": [],
+      "area": 996.5300899840001,
+      "bbox": [
+        619.27456,
+        148.3936,
+        20.72512,
+        48.083200000000005
+      ]
+    },
+    {
+      "id": 9828570698,
+      "image_id": 5986517698,
+      "category_id": 2213224698,
+      "segmentation": [],
+      "area": 536.0721207296,
+      "bbox": [
+        31.5024,
+        0.0,
+        16.58048,
+        32.33152
+      ]
+    },
+    {
+      "id": 6652268698,
+      "image_id": 5986517698,
+      "category_id": 2213224698,
+      "segmentation": [],
+      "area": 851.52270336,
+      "bbox": [
+        0.0,
+        28.186559999999993,
+        17.40928,
+        48.912000000000006
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2213224698,
+      "name": "AppleBBCH81",
+      "supercategory": "apple"
+    }
+  ]
+}

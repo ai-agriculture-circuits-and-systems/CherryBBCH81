@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4013329691,
+      "width": 640,
+      "height": 640,
+      "file_name": "IMGP9435_7.jpg",
+      "size": 43574,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1790468691,
+      "image_id": 4013329691,
+      "category_id": 2093874691,
+      "segmentation": [],
+      "area": 4238.2960689152005,
+      "bbox": [
+        177.35808000000003,
+        507.35744,
+        64.71424,
+        65.49248
+      ]
+    },
+    {
+      "id": 8640141691,
+      "image_id": 4013329691,
+      "category_id": 2093874691,
+      "segmentation": [],
+      "area": 1937.743419392,
+      "bbox": [
+        320.00032000000004,
+        456.60384,
+        43.10848,
+        44.9504
+      ]
+    },
+    {
+      "id": 4232278691,
+      "image_id": 4013329691,
+      "category_id": 2093874691,
+      "segmentation": [],
+      "area": 3549.7430441984,
+      "bbox": [
+        291.32096,
+        406.03744,
+        61.886720000000004,
+        57.35872
+      ]
+    },
+    {
+      "id": 9320505691,
+      "image_id": 4013329691,
+      "category_id": 2093874691,
+      "segmentation": [],
+      "area": 5809.919088640001,
+      "bbox": [
+        355.47168,
+        313.20736,
+        76.98112,
+        75.47200000000001
+      ]
+    },
+    {
+      "id": 7730182691,
+      "image_id": 4013329691,
+      "category_id": 2093874691,
+      "segmentation": [],
+      "area": 6322.549063680001,
+      "bbox": [
+        344.90560000000005,
+        259.62271999999996,
+        83.77344000000001,
+        75.47200000000001
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2093874691,
+      "name": "AppleBBCH81",
+      "supercategory": "apple"
+    }
+  ]
+}

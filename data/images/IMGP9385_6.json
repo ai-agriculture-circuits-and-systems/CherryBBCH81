@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4012394683,
+      "width": 640,
+      "height": 640,
+      "file_name": "IMGP9385_6.jpg",
+      "size": 38669,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6139003683,
+      "image_id": 4012394683,
+      "category_id": 7957745683,
+      "segmentation": [],
+      "area": 3790.420092928,
+      "bbox": [
+        34.69408,
+        0.00032000000000032003,
+        58.77568,
+        64.4896
+      ]
+    },
+    {
+      "id": 7627476683,
+      "image_id": 4012394683,
+      "category_id": 7957745683,
+      "segmentation": [],
+      "area": 1536.3397091328,
+      "bbox": [
+        0.0,
+        0.0,
+        35.50976,
+        43.26528
+      ]
+    },
+    {
+      "id": 2704476683,
+      "image_id": 4012394683,
+      "category_id": 7957745683,
+      "segmentation": [],
+      "area": 1719.00529664,
+      "bbox": [
+        244.02335999999997,
+        551.02048,
+        37.31776,
+        46.064
+      ]
+    },
+    {
+      "id": 8228779683,
+      "image_id": 4012394683,
+      "category_id": 7957745683,
+      "segmentation": [],
+      "area": 1369.8328064,
+      "bbox": [
+        360.05856,
+        484.54816,
+        29.7376,
+        46.064
+      ]
+    },
+    {
+      "id": 2976496683,
+      "image_id": 4012394683,
+      "category_id": 7957745683,
+      "segmentation": [],
+      "area": 3694.6925060096,
+      "bbox": [
+        80.41471999999999,
+        593.57568,
+        79.58528,
+        46.42432
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 7957745683,
+      "name": "AppleBBCH81",
+      "supercategory": "apple"
+    }
+  ]
+}

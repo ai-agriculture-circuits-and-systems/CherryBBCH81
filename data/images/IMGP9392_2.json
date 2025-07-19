@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2051778685,
+      "width": 640,
+      "height": 640,
+      "file_name": "IMGP9392_2.jpg",
+      "size": 46611,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8793487685,
+      "image_id": 2051778685,
+      "category_id": 2559486685,
+      "segmentation": [],
+      "area": 1454.2324633599999,
+      "bbox": [
+        374.7152,
+        227.1504,
+        38.1344,
+        38.1344
+      ]
+    },
+    {
+      "id": 2711774685,
+      "image_id": 2051778685,
+      "category_id": 2559486685,
+      "segmentation": [],
+      "area": 964.9174020096,
+      "bbox": [
+        407.04639999999995,
+        198.96384,
+        32.33152,
+        29.84448
+      ]
+    },
+    {
+      "id": 1072260685,
+      "image_id": 2051778685,
+      "category_id": 2559486685,
+      "segmentation": [],
+      "area": 1034.3323906048001,
+      "bbox": [
+        150.88096,
+        223.83456,
+        29.015680000000003,
+        35.64736
+      ]
+    },
+    {
+      "id": 2698149685,
+      "image_id": 2051778685,
+      "category_id": 2559486685,
+      "segmentation": [],
+      "area": 556.683116544,
+      "bbox": [
+        576.16576,
+        397.92768,
+        22.38336,
+        24.8704
+      ]
+    },
+    {
+      "id": 3052855685,
+      "image_id": 2051778685,
+      "category_id": 2559486685,
+      "segmentation": [],
+      "area": 461.8365632512,
+      "bbox": [
+        169.11936,
+        401.24384,
+        19.89632,
+        23.21216
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2559486685,
+      "name": "AppleBBCH81",
+      "supercategory": "apple"
+    }
+  ]
+}
